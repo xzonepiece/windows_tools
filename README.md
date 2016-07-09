@@ -57,6 +57,6 @@ FastStone Capture是一款非常强大的截屏工具，支持活动窗口截图
 - 最美字体神器-[MacType](http://www.appinn.com/mactype/)
 - 眼睛保护神器- [f.lux](https://justgetflux.com)
 - 多功能分享神器-[ShareX](http://www.appinn.com/sharex/)
-- 快速启动神器—— [Launchy](http://launchy.net)
+- 快速启动神器— [Launchy](http://launchy.net)
 
 **重要申明：软件仅仅只是工具，切勿本末倒置**
